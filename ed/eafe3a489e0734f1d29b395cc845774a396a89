@@ -1,0 +1,27 @@
+.changeset/fix-fake-ip-provider-endpoint-ssrf.md
+  s_72a7e0e817f460::t_41e9858fcfd801 5
+packages/core/src/extensions/url-safety.ts
+  s_72a7e0e817f460::t_7c80bcad5b67af 147
+  s_72a7e0e817f460::t_56c695e24e775c 24-28,36,46,49
+  s_72a7e0e817f460::t_475dbbdcb38c02 72
+packages/core/src/agent/engine/provider-endpoint-validation.ts
+  s_72a7e0e817f460::t_e3a4e73357aa78 29-32
+packages/core/src/agent/engine/provider-endpoint-validation.spec.ts
+  s_72a7e0e817f460::t_57b5a2e6719dfe 9,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.23",
+  "base_commit_sha": "edeafe3a489e0734f1d29b395cc845774a396a89",
+  "prompts": {},
+  "sessions": {
+    "s_72a7e0e817f460": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d4345df6-5afe-484d-85af-d96e0a960bc5",
+        "model": "grok-4.7"
+      },
+      "human_author": "张艳华 <939593210@qq.com>"
+    }
+  }
+}
