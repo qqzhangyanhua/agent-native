@@ -1,0 +1,35 @@
+.changeset/fix-fake-ip-provider-endpoint-ssrf.md
+  s_72a7e0e817f460::t_b1889e7cbd920b 5
+packages/core/src/extensions/url-safety.ts
+  s_72a7e0e817f460::t_7e594b8d5b08fb 60-62
+  s_72a7e0e817f460::t_d675ae319a8667 341
+  s_72a7e0e817f460::t_528a2011eb3c44 17-20
+  s_72a7e0e817f460::t_cbf249d575cf23 162,174-176,178,183
+  s_72a7e0e817f460::t_84b93826994a35 177
+packages/core/src/agent/engine/provider-endpoint-validation.spec.ts
+  s_72a7e0e817f460::t_b188d14ae1f7c6 1-39
+packages/core/src/agent/engine/provider-endpoint-validation.ts
+  s_72a7e0e817f460::t_fe1c2632dd4ad3 29-35
+packages/core/src/extensions/url-safety.spec.ts
+  s_72a7e0e817f460::t_17441152f44e85 202-206,210-229,239-243
+  s_72a7e0e817f460::t_0a0b43074bca56 230-233
+  s_72a7e0e817f460::t_f71f87d7d08505 170-172,180-184
+  s_72a7e0e817f460::t_594e93a2d0bc4b 234-238
+  s_72a7e0e817f460::t_3f4d6701c6a5a8 244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.23",
+  "base_commit_sha": "83eaa57f78fc12f792ec97ead5d3b7feffbd23fa",
+  "prompts": {},
+  "sessions": {
+    "s_72a7e0e817f460": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d4345df6-5afe-484d-85af-d96e0a960bc5",
+        "model": "grok-4.7"
+      },
+      "human_author": "张艳华 <939593210@qq.com>"
+    }
+  }
+}
