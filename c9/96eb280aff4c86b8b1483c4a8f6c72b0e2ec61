@@ -1,0 +1,21 @@
+packages/core/src/extensions/url-safety.spec.ts
+  s_72a7e0e817f460::t_7c62912a7a5029 226-227
+packages/core/src/agent/engine/provider-endpoint-validation.spec.ts
+  s_72a7e0e817f460::t_7c62912a7a5029 14-15,27-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.23",
+  "base_commit_sha": "c996eb280aff4c86b8b1483c4a8f6c72b0e2ec61",
+  "prompts": {},
+  "sessions": {
+    "s_72a7e0e817f460": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d4345df6-5afe-484d-85af-d96e0a960bc5",
+        "model": "grok-4.7"
+      },
+      "human_author": "张艳华 <939593210@qq.com>"
+    }
+  }
+}
